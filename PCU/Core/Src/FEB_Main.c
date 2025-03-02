@@ -1,6 +1,8 @@
 // ********************************** Includes & External **********************************
 
 #include "FEB_Main.h"
+#include <stdbool.h>
+#include <string.h>
 
 extern ADC_HandleTypeDef hadc1;
 
