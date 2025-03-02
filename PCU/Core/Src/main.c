@@ -22,8 +22,8 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "FEB_Main.h"
-#include <stdbool.h>  // For bool type
-#include <string.h>
+#include <stdbool.h>  // for bool
+#include <string.h> // for string
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
